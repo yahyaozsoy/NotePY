@@ -1,2 +1,2 @@
-# WordPy
+# NotePy
 Notepadish
