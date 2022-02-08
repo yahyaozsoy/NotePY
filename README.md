@@ -6,9 +6,9 @@ I don't know, I was just bored
 
 ## How can I use it?
 After downloading [project¹](https://github.com/yahyaozsoy/3Xplus1#links) and [python](https://www.python.org/downloads/)(you can use every version which is 3.6 and above), you should just **simply cilck *NotePY.pyw*** and it will **automatically** generate **necessary things** for you.
-When it closed you can click to the **.txt** file which is located in logs folder, to see the log.
+If you think there is a **problem** please report me
 
-***Note:** If it doesn't start, you should open your Command Prompt and write `pip install tkinter` and `pip install textblob` with that you can freely open the file.*
+***Note:** If it doesn't work, you should open your *Command Prompt* and write `pip install tkinter` and `pip install textblob` with that you can freely open the file.*
 
 ## Links
 1:
