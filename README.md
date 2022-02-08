@@ -1,5 +1,5 @@
 # NotePy
-This is another type of *Notepad but With Python* thing 
+This is another type of *"Notepad but With Python"* thing 
 
 ## Why you made that?
 I don't know, I was just bored  
