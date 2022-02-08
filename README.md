@@ -10,6 +10,18 @@ If you think there is a **problem** please report me
 
 ***Note:** If it doesn't work, you should open your *Command Prompt* and write `pip install tkinter` and `pip install textblob` with that you can freely open the file.*
 
+
+
+
+
+
+
+
+
+
+
+
+
 ## Links
 1:
 
